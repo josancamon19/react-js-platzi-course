@@ -82,15 +82,6 @@
       "avatarUrl": "https://www.gravatar.com/avatar/9ffc47916a084028d7a6436531077852?d=identicon"
     },
     {
-      "id": "4bbb7f45-e0be-4b7f-ab7c-101b3ecb2d04",
-      "firstName": "Maynard",
-      "lastName": "Huel",
-      "email": "Chadd37@yahoo.com",
-      "jobTitle": "Internal Group Analyst",
-      "twitter": "MaynardHuel05078-8821",
-      "avatarUrl": "https://www.gravatar.com/avatar/eec9b2ede8a775989ff71b5308ff52d7?d=identicon"
-    },
-    {
       "id": "67565eb7-9738-4dab-8b10-081d3dcff01d",
       "firstName": "Devin",
       "lastName": "Bartell",
@@ -438,6 +429,14 @@
       "jobTitle": "FUll stakc dev",
       "twitter": "sonnyo",
       "id": "L4o_YHu"
+    },
+    {
+      "firstName": "Wilmar",
+      "lastName": "Cabezas",
+      "email": "wilmar.cabezas/@gmail.com",
+      "jobTitle": "",
+      "twitter": "",
+      "id": "eSw9Vyo"
     }
   ]
 }
